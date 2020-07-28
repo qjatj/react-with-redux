@@ -1,3 +1,5 @@
+Uses semantics ui and api to create comment cards in readable format.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
